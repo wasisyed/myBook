@@ -1,0 +1,10 @@
+/* My Custom Style Sheet for Use with Web Apps. */
+.container-fluid,.container{
+    text-align: center;
+}
+.jumbotron {
+    font-size: 2.5em;
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+}
